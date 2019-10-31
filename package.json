@@ -1,0 +1,37 @@
+{
+  "name": "newtodo",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "mobx": "^5.14.2",
+    "mobx-react": "^6.1.4",
+    "react": "^16.11.0",
+    "react-app-rewire-mobx": "^1.0.9",
+    "react-app-rewired": "1.6.2",
+    "react-dom": "^16.11.0",
+    "react-redux": "^7.1.1",
+    "react-scripts": "1.1.4",
+    "redux": "^4.0.4"
+  },
+  "scripts": {
+    "start": "react-app-rewired start",
+    "build": "react-app-rewired build",
+    "test": "react-app-rewired test",
+    "eject": "react-app-rewired eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
