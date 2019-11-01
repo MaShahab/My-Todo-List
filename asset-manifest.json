@@ -1,6 +1,23 @@
 {
-  "main.js": "static/js/main.acb6d122.js",
-  "main.js.map": "static/js/main.acb6d122.js.map",
-  "static\\media\\amc_loading.gif": "static/media/amc_loading.0b9309cf.gif",
-  "static\\media\\x-button.png": "static/media/x-button.cfff30b6.png"
+  "files": {
+    "main.css": "/My-Todo-List/static/css/main.96d85699.chunk.css",
+    "main.js": "/My-Todo-List/static/js/main.f9fcf9bc.chunk.js",
+    "main.js.map": "/My-Todo-List/static/js/main.f9fcf9bc.chunk.js.map",
+    "runtime-main.js": "/My-Todo-List/static/js/runtime-main.1fbe9dbd.js",
+    "runtime-main.js.map": "/My-Todo-List/static/js/runtime-main.1fbe9dbd.js.map",
+    "static/js/2.1ac39f59.chunk.js": "/My-Todo-List/static/js/2.1ac39f59.chunk.js",
+    "static/js/2.1ac39f59.chunk.js.map": "/My-Todo-List/static/js/2.1ac39f59.chunk.js.map",
+    "index.html": "/My-Todo-List/index.html",
+    "precache-manifest.8c2740936bdd070157b99e77213c1920.js": "/My-Todo-List/precache-manifest.8c2740936bdd070157b99e77213c1920.js",
+    "service-worker.js": "/My-Todo-List/service-worker.js",
+    "static/css/main.96d85699.chunk.css.map": "/My-Todo-List/static/css/main.96d85699.chunk.css.map",
+    "static/media/amc_loading.gif": "/My-Todo-List/static/media/amc_loading.0b9309cf.gif",
+    "static/media/x-button.png": "/My-Todo-List/static/media/x-button.cfff30b6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1fbe9dbd.js",
+    "static/js/2.1ac39f59.chunk.js",
+    "static/css/main.96d85699.chunk.css",
+    "static/js/main.f9fcf9bc.chunk.js"
+  ]
 }
